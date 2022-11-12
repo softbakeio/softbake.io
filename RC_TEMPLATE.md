@@ -6,6 +6,12 @@
 
 #### Sample: 
 :coffee: :coffee: :coffee: :coffee: :coffee:
+
+:cupcake: :cupcake: :cupcake: :cupcake: :cupcake:
+
+:cookie: :cookie: :cookie: :cookie: :cookie:
+
+:doughnut: :doughnut: :doughnut: :doughnut: :doughnut:
  
 ## Description
 > Detail and short description about the code recipe. What the output looks like
