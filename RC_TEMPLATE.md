@@ -4,6 +4,9 @@
 ### Badges
 > Under or beside title should be badges such as ratings, count of minutes to read it, count of images
 
+#### Sample: 
+:coffee: :coffee: :coffee: :coffee: :coffee:
+ 
 ## Description
 > Detail and short description about the code recipe. What the output looks like
 > such REST API endpoint, screenshot of the application screen or links to web application.
